@@ -1,4 +1,4 @@
-# Atlas-Ti parser that outputs that outputs a formatted xlsx file of groupes codes
+# Atlas-Ti parser 
 
 ## Before parsing:
 
