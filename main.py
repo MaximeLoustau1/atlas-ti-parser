@@ -92,7 +92,6 @@ cols = [
     "8. Target Quality Attribute",
     "9. Other Related Quality Attributes",
     "10. Measured Impact",
-    "Paragraph"
 ]
 df = df.reindex(columns=cols)
 
